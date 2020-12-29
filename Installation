@@ -1,0 +1,13 @@
+
+Installation Steps
+==================
+
+. download the source code
+> git clone https://github.com/bjsmarts-beimar/angularBaseSkeletonApp.git
+
+. go to the API folder and run the following command to start the API Server
+> dotnet watch run
+
+. go to the client folder and runt the following command to start front end applicaiton
+> npm Install 
+> ng serve
